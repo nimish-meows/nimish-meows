@@ -1,8 +1,11 @@
 ## Hi there 👋
 this is me Nimish Mittal !! a Cat Lover !!
 
-Billu uses this id for presentation purpose
+Billu uses this id for presentation purposes only.
+
+
 thank you !
+
 
 good meow meow
 <!--
